@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.dashboard {
+  background: #001935;
+  color: silver;
+  height: 100%;
+}
