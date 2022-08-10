@@ -1,7 +1,13 @@
 function Dashboard(){
     return (
         <div className='dashboard'>
-            <h1>DASHBOARD VIEW</h1>
+            <div className='sidebar'>
+                I am the side bar
+            </div>
+
+            <div className='post-maker'>
+                I YAM post maker !
+            </div>
         </div>
     )
 }

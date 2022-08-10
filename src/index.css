@@ -12,10 +12,24 @@ body {
 .dashboard {
   background: #001935;
   color: silver;
-  height: 100vh;
+  min-height: 100vh;
+width: 100%;
 }
 
-.dashboard>*{
-  display: grid;
-  position: absolute;
+.post-maker{
+  align-items: center;
+background: white;
+border-radius: 3px;
+box-sizing: border-box;
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;
+min-height: 100px;
+padding: 15px 5px;
+position: relative;
+}
+
+.sidebar{
+  /* display: flex; */
+  margin-left: 80%
 }
