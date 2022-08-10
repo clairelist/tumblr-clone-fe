@@ -3,9 +3,12 @@
 function Dashboard(){
     return (
         <div className='dashboard'>
-             <div className='post-maker'>
+            <div className='centre-wrapper'>
+            <div className='post-maker'>
                 I YAM post maker !
             </div>
+            </div>
+             
 
             <div className='sidebar'>
                 I am the side bar

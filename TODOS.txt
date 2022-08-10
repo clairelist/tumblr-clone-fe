@@ -8,3 +8,15 @@ BACKGROUND, LOGO, CENTERED VIEW OF CONTENT
 SIDEBAR 
 
 #001935 --BG color
+
+TOPNAV styles
+align-items: center;
+display: flex;
+  box-sizing: border-box;
+  height: 54px;
+  justify-content: space-between;
+  margin: auto;
+  max-width: 1716px;
+  padding-left: 22px;
+  padding-right: 20px;
+  width: 100%;
