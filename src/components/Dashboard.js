@@ -3,12 +3,12 @@
 function Dashboard(){
     return (
         <div className='dashboard'>
-            <div className='sidebar'>
-                I am the side bar
+             <div className='post-maker'>
+                I YAM post maker !
             </div>
 
-            <div className='post-maker'>
-                I YAM post maker !
+            <div className='sidebar'>
+                I am the side bar
             </div>
         </div>
     )
